@@ -24,7 +24,7 @@
 
 	</appender>
 
-	<logger name="com.example.demo" level="debug"
+	<logger name="TX_LOGGER" level="debug"
 		additivity="false">
 		<appender-ref ref="FILE-AUDIT" />
 	</logger>
